@@ -18,15 +18,15 @@
 ```csharp
 My Profile
 -------------------------------
-Name: Karan Singh.
-WhoamI: High School Student 🏫.
+Name: KABIR CHOUHAN .
+WhoamI: ITI COLLEGE .  🏫.
 Gender: Male.
-Location: Chandigarh, India.
+Location: RAJSTHAN, India.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening music 🎶.
 Languages: CPlusPlus, CSharp, Css, Html, Python.
 Learning: Computer Science.
-Telegram: @EVERYONExKSK.
+Telegram: @AKCRUSH143.
 ```
 <br>
      
