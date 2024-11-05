@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Karan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">✨ Hi there I'm KABIR  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
 <body>
 <br>
@@ -18,15 +18,15 @@
 ```csharp
 My Profile
 -------------------------------
-Name: Karan Singh.
-WhoamI: High School Student 🏫.
+Name: KABIR CHOUHAN.
+WhoamI: itI 🏫.
 Gender: Male.
-Location: Chandigarh, India.
+Location: RAJSTHAN, India.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening music 🎶.
 Languages: CPlusPlus, CSharp, Css, Html, Python.
 Learning: Computer Science.
-Telegram: @EVERYONExKSK.
+Telegram: @ll_ak_crush_143ll.
 ```
 <br>
      
@@ -122,8 +122,8 @@ So I do my best in every specialtation area. My programming languages are Python
 
 <details>
   <summary><h2>A Quote from a random Developer 💭</h2></summary>
-  <div align="center">
-    <a href="https://github.com/KSKOP69/KSKOP69">
+  <div align="center"> 
+    <a href="[https://github.com/AKCRUSH143/]"
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
     </a>
   </div>
@@ -138,9 +138,9 @@ So I do my best in every specialtation area. My programming languages are Python
     <br>
     <table>
       <tr>
-        <td><a href="https://www.instagram.com/notyourksk"><img width="25" src="https://static.cdnlogo.com/logos/i/28/instagram.png"><b>@NotYourKSK</b></a></td>
-        <td><a href="https://discord.com/users/593308295146504192"><img width="25" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><b>KSK #1149</b></a></td>
-        <td><a href="https://telegram.dog/everyonexksk"><img width="25" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><b>@EVERYONExKSK</b></a></td>
+        <td><a href="https://www.instagram.com/_ak_loveguru_bird"><img width="25" src="https://static.cdnlogo.com/logos/i/28/instagram.png"><b>_ak_loveguru_bird</b></a></td>
+        <td><a href="https://discord.com/users/593308295146504192"><img width="25" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><b>K</b></a></td>
+        <td><a href="https://telegram.dog/https://ll_AK_crush_143ll"><img width="25" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><b>@ll_AK_crush_143ll</b></a></td>
       </tr>
     </table>
   </div>
